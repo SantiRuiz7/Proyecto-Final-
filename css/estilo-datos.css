@@ -1,0 +1,13 @@
+body{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://images2.alphacoders.com/568/568747.jpg)
+
+}
+div {
+    width: 200px;
+    border: 2px solid #dd4b39;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 10px;
+}

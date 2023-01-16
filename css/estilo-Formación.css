@@ -1,0 +1,26 @@
+body{
+    color: white;
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://images2.alphacoders.com/568/568747.jpg)
+
+}
+h1 {
+    width: 1000px;
+    border: 5px solid #dd4b39;
+    border-radius: 5px;
+    padding: 10px 100px 100px 10px;
+    margin: 20px 50px 30px 10px;
+}
+p {
+    width: 200px;
+    border: 2px solid #dd4b39;
+    border-radius: 5px;
+    padding: 30px;
+    margin: 10px;
+}
+
+div {
+    width: 1000px;
+    padding: 20px;
+    margin: 10px 10px 10px 10px;
+}
